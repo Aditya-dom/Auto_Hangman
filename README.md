@@ -21,3 +21,4 @@ Replace the "fd.parquet" with your own output dataset from the dataset_creation 
 You can import your own model or import my already trained model in the above mentioned link. There are 2 modes of testing - one where with verbose = True and the model will output each iteration of the guess for the word and you can use this to analyze the pattern of your model. In second you can specify the max number of guesses for the game and check the overall accuracy of the model by randomly selecting words from the dataset you provide. 
 
 Enjoy!
+Thank you!!
